@@ -212,7 +212,7 @@ ETH_RPC_URL= goerli eth rpc http linki
 ETH_WS_URL= goerli eth wss linki
 # bu linkleri infuradan almıştık, zorlanırsan rues chatten yardım talep edin.
 
-# key yolundan kastım path, yukarıda öğrenmiştiniz.
+# key yolundan kastım path, yukarıda öğrenmiştiniz. (~ karakteri olmayacak)
 ECDSA_KEY_FILE_HOST= eigen cli kurulumda aldığımız ecdsa key yolumuz
 BLS_KEY_FILE_HOST= eigen cli kurulumda aldığımız bls key yolumuz
 
