@@ -88,6 +88,7 @@ sudo cp eigenlayer-cli/build/eigenlayer /usr/local/bin/
 > Örnek şifre DenemeSifre123.,#%
 
 ```
+# <key-ismi> yerine bir isim yaz <> karakterleri olmadan. ve iki işlemde de aynı ismi kullan.
 eigenlayer operator keys create --key-type ecdsa <key-ismi>
 eigenlayer operator keys create --key-type bls <key-ismi>
 ```
